@@ -66,3 +66,17 @@ A saída de dados ficará da seguinte forma(Exemplo4).
 
 ![image](https://user-images.githubusercontent.com/66280255/188493789-21c2e4e1-6519-4cb2-87e5-9d60595a8771.png)
 
+Agora que entendemos melhor ponteiros vamos realizar os mesmo procedimento com diferentes tipos de variáveis e realizaremos uma soma de números por meio dos pondeiros(Exemplo5).
+
+![image](https://user-images.githubusercontent.com/66280255/188498895-00742cf6-a44d-420d-9bd3-bebb5a453b2e.png)
+
+A saída de dados ficará da seguinte forma(Exemplo5).
+
+![image](https://user-images.githubusercontent.com/66280255/188498961-f0c73d15-62fb-463b-8bee-c64d568f062c.png)
+
+
+
+
+
+
+
