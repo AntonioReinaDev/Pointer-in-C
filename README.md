@@ -17,10 +17,9 @@ Um ponteiro é uma variável que armazena o endereço de memória de um objeto. 
 
 ### Oque é Heap?
 
-O heap é o local de memória adequado para alocar muitos objetos grandes, pois esta seção do programa é bem maior que a pilha, e seu tamanho é limitado apenas pela memória virtualdisponível na sua máquina. 
-Os objetos alocados no heap são todos aqueles alocados usando new ou malloc() (objetos alocados dinamicamente).
+O heap é o local de memória adequado para alocar muitos objetos grandes, e seu tamanho é limitado apenas pela memória virtual disponível na sua máquina. 
 
-A imagem a seguir é uma ilustração de como está ocorrendo os dados em memória.Note que temos a variável armazenada com seu valor, e ao lado temos o endereçamento
+A imagem a seguir é uma ilustração de como está ocorrendo os dados em memória. Note que temos a variável armazenada com seu valor, e ao lado temos o endereçamento
 de memória, que no caso é a referência para o ponteiro.
 
 ![ponteiroC](https://user-images.githubusercontent.com/66280255/188481974-074c52fe-f671-40e0-badf-84019591b052.PNG)
