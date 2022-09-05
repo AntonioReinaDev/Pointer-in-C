@@ -7,11 +7,15 @@ int main(void){
     //E atribuição a ela com a variável criada anteriormente
     int coletorValor = valor;
 
+    //Impressão criada para entendermos melhor oque está acontecendo ao decorrer do código
+    //Valores inciais
+    printf("Número de Valor antes de sua atribuição\nValor: %i\ncoletorValor:%i\n\n", valor, coletorValor);
+
     //Atribuição de um novo número a nossa variável valor;
     valor = 30;
 
-    //Impressão de valores
-    printf("Valor:%i\ncoletorValor:%i", valor, coletorValor);
+    //Impressão de valores após sua atribução
+    printf("Número de valor após sua atribuicao\nValor:%i\ncoletorValor:%i", valor, coletorValor);
 
     getchar();
 
