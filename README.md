@@ -29,7 +29,7 @@ Agora que temos uma base simples, vamos entender como ocorre o funcionamento no 
 
 ![image](https://user-images.githubusercontent.com/66280255/188482042-38ca954a-d2a6-4089-86b7-034b06fd7c76.png)
 
-Repare que na imagem do código ele irá atribuir um valor a variável e imprimir seu valor e endereçamento, veja a imagem a baixo.
+Repare que na imagem do código ele irá atribuir um valor a variável e imprimir seu valor e endereçamento, veja a imagem abaixo.
 Está imagem é referente a saída de dados do exemplo1.
 
 ![image](https://user-images.githubusercontent.com/66280255/188482793-518b8063-89c3-4631-8556-f39a8d1eb4f7.png)
@@ -45,10 +45,24 @@ Veja a saída de dados referente ao exemplo2;
 Agora vamos pensar em uma simples troca de valores em variaveis, ou seja criaremos uma varíavel chamada "valor" de tipo int e atribuiremos o número 10 a ela,
 criaremos em seguida outra variável também do tipo int chamata "coletorValor" e iremos atribuir a ela a varíavel "valor". Após isso vamos atribuir o número 30 a variável "valor".
 
-Veja na imagem a baixo como ficará em código(Exemplo3).
+Veja na imagem abaixo como ficará em código(Exemplo3).
 
 ![image](https://user-images.githubusercontent.com/66280255/188491506-f41b4f9b-46ce-47e5-8678-e7601bd448b6.png)
 
 A impressão de dados ficará conforme a imagem a seguir(Exemplo3).
 
 ![image](https://user-images.githubusercontent.com/66280255/188491544-0612ea33-9aea-4452-965f-59a3f0dc56a0.png)
+
+Agora que entendemos a atribuição de valores de variáveis com outras variáveis do mesmo tipo, vamos agora realizar o mesmo procedimento utilizando ponteiros.
+Criamos a variável "valorUm" do tipo int para recebermos o número 10, em seguida criamos o ponteiro chamado "ponteiro" que recebera o endereçamento de memória da variável "valorUm", após isso criamos a variável "valorDois" do tipo int e atribuiremos o número 20 a ela, por fim chamamos nosso ponteiro e atribuimos nossa variável "valorDois" a ele.
+
+--> Lembre-se disso ao atribuirmos um valor a um ponteiro representamos com asterisco da seguinte forma *(nome do ponteiro) = variável pois indicamos que queremos atribuir ao valor referenciado em memória a variável em que ele está apontando. Sem asterisco indicamos que queremos atribuir um valor a sua referência, oque no caso não é possível.
+
+Veja a imagem abaixo o exemplo de código abaixo como ficará essa troca.
+
+![image](https://user-images.githubusercontent.com/66280255/188493699-cf386bc8-8fc0-49ff-b794-7b6a1475598f.png)
+
+A saída de dados ficará da seguinte forma.
+
+![image](https://user-images.githubusercontent.com/66280255/188493789-21c2e4e1-6519-4cb2-87e5-9d60595a8771.png)
+
