@@ -42,3 +42,13 @@ Veja a saída de dados referente ao exemplo2;
 
 ![image](https://user-images.githubusercontent.com/66280255/188489150-7be50ceb-53f4-4172-b9a0-f1945d4f0e0c.png)
 
+Agora vamos pensar em uma simples troca de valores em variaveis, ou seja criaremos uma varíavel chamada "valor" de tipo int e atribuiremos o número 10 a ela,
+criaremos em seguida outra variável também do tipo int chamata "coletorValor" e iremos atribuir a ela a varíavel "valor". Após isso vamos atribuir o número 30 a variável "valor".
+
+Veja na imagem a baixo como ficará em código(Exemplo3).
+
+![image](https://user-images.githubusercontent.com/66280255/188491506-f41b4f9b-46ce-47e5-8678-e7601bd448b6.png)
+
+A impressão de dados ficará conforme a imagem a seguir(Exemplo3).
+
+![image](https://user-images.githubusercontent.com/66280255/188491544-0612ea33-9aea-4452-965f-59a3f0dc56a0.png)
