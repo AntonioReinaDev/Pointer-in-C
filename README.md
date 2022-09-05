@@ -58,11 +58,11 @@ Criamos a variável "valorUm" do tipo int para recebermos o número 10, em segui
 
 --> Lembre-se disso ao atribuirmos um valor a um ponteiro representamos com asterisco da seguinte forma *(nome do ponteiro) = variável pois indicamos que queremos atribuir ao valor referenciado em memória a variável em que ele está apontando. Sem asterisco indicamos que queremos atribuir um valor a sua referência, oque no caso não é possível.
 
-Veja a imagem abaixo o exemplo de código abaixo como ficará essa troca.
+Veja a imagem abaixo o exemplo de código abaixo como ficará essa troca(Exemplo4).
 
 ![image](https://user-images.githubusercontent.com/66280255/188493699-cf386bc8-8fc0-49ff-b794-7b6a1475598f.png)
 
-A saída de dados ficará da seguinte forma.
+A saída de dados ficará da seguinte forma(Exemplo4).
 
 ![image](https://user-images.githubusercontent.com/66280255/188493789-21c2e4e1-6519-4cb2-87e5-9d60595a8771.png)
 
