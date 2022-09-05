@@ -73,9 +73,8 @@ A saída de dados ficará da seguinte forma(Exemplo5).
 
 ![image](https://user-images.githubusercontent.com/66280255/188498961-f0c73d15-62fb-463b-8bee-c64d568f062c.png)
 
+Para finalizar foi deixar um desafio para exercitar o aprendizado e a lógica.
+Será necessário criar uma função de bubble sort para organizar um array e imprimi-lo organizado na tela utilizando ponteiros.
+O exercício está dentro da pasta "DesafiosComPonteiro" em txt junto com sua resolução.
 
-
-
-
-
-
+Bons estudos 😊!
