@@ -1,0 +1,7 @@
+Crie uma função para organizar o seguinte array.
+
+int array[10] = {83, 31, 91, 46, 27, 20, 96, 25, 96, 80};
+
+Os parâmetros deverão ser passado por ponteiros e ao final
+a resolução deverá mostrar o array desorganizado e o novo
+array após sua organização.
