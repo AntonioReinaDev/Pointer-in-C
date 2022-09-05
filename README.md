@@ -11,9 +11,9 @@
 
 Um ponteiro é uma variável que armazena o endereço de memória de um objeto. Os ponteiros são usados extensivamente em C e C++ para três finalidades principais: 
 
-Para alocar novos objetos no heap.
-Para passar funções para outras funções. 
-Para iterar sobre elementos em matrizes ou outras estruturas de dados.
+* Para alocar novos objetos no heap.
+* Para passar funções para outras funções. 
+* Para iterar sobre elementos em matrizes ou outras estruturas de dados.
 
 ### Oque é Heap?
 
@@ -30,7 +30,15 @@ Agora que temos uma base simples, vamos entender como ocorre o funcionamento no 
 ![image](https://user-images.githubusercontent.com/66280255/188482042-38ca954a-d2a6-4089-86b7-034b06fd7c76.png)
 
 Repare que na imagem do código ele irá atribuir um valor a variável e imprimir seu valor e endereçamento, veja a imagem a baixo.
-Está imagem é referente ao exemplo1.
+Está imagem é referente a saída de dados do exemplo1.
 
 ![image](https://user-images.githubusercontent.com/66280255/188482793-518b8063-89c3-4631-8556-f39a8d1eb4f7.png)
+
+Agora que entendemos como podemos receber o valor do endereço, vamos colocar em prática com um exemplo de ponteiro(exemplo2).
+
+![image](https://user-images.githubusercontent.com/66280255/188488656-7a95c920-2db6-4cd5-9a69-bd31c695ec93.png)
+
+Veja a saída de dados referente ao exemplo2;
+
+![image](https://user-images.githubusercontent.com/66280255/188489150-7be50ceb-53f4-4172-b9a0-f1945d4f0e0c.png)
 
